@@ -1,11 +1,9 @@
 /*
- * Megan Paradowski
- * 4/21
- * Problem 1 - remove duplicates
+ * Remove Duplicates: enter 10 integers separated by the enter key and the program will remove duplicate integers and display 
+ * the results
  */
 
 //import the classes we need
-package removeDuplicates;
 import java.util.ArrayList;
 import java.util.Scanner;
 
